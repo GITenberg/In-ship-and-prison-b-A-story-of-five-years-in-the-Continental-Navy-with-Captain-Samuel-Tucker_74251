@@ -1,0 +1,44 @@
+_repo: In-ship-and-prison-b-A-story-of-five-years-in-the-Continental-Navy-with-Captain-Samuel-Tucker_74251
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: DeBebian, Arthur
+    aliases:
+    - DeBebian, A. (Arthur)
+    - Bebian, Arthur de
+    gutenberg_agent_id: '38728'
+    url: http://www.gutenberg.org/2009/agents/38728
+creator:
+  author:
+    agent_name: Chipman, William P. (William Pendleton)
+    alias: Chipman, William Pendleton
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '40183'
+    url: http://www.gutenberg.org/2009/agents/40183
+description: ''
+gutenberg_issued: '2024-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74251'
+  lccn: 08019718
+language: en
+pgterms:marc904: https://www.loc.gov/item/08019718/
+pgterms:marc905: 20240327012229chipman
+pgterms:marc906: '1908'
+pgterms:marc907: us
+production_note: Peter Becker, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: '  $aUnited States :$bSaalfield Publishing Co., $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Tucker, Samuel, 1747-1833 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'In ship and prison : $b A story of five years in the Continental Navy with
+  Captain Samuel Tucker'
+url: http://www.gutenberg.org/ebooks/74251
