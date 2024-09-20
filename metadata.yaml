@@ -8,6 +8,9 @@ contributor:
     - Bebian, Arthur de
     gutenberg_agent_id: '38728'
     url: http://www.gutenberg.org/2009/agents/38728
+covers:
+- cover_type: archival
+  image_path: 74251-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Chipman, William P. (William Pendleton)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '40183'
     url: http://www.gutenberg.org/2009/agents/40183
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74251#In-ship-and-prison-b-A-story-of-five-years-in-the-Continental-Navy-with-Captain-Samuel-Tucker
 gutenberg_issued: '2024-08-14'
 gutenberg_type: Text
 identifiers:
